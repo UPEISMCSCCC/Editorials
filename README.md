@@ -4,9 +4,16 @@ This repo contains descriptions of various problems that were solved. It's inten
 
 It's recommended that you attempt these problems before reading their editorial.
 
-## Problems
+## Basic Problems
+
+Problems that don't require very much knowledge about competitive programming, and are good starting problems.
 
 1. [hello](./hello.md)
 2. [quadrant](./quadrant.md)
 3. [lastfactorialdigit](./lastfactorialdigit.md)
-4. [walrusweights](./walrusweights.md)
+
+## Advanced Problems 
+
+Problems that either take a lot of creative work, or use techniques that you may not have seen outside of competitive programming.
+
+1. [walrusweights](./walrusweights.md)
