@@ -7,3 +7,4 @@ It's recommended that you attempt these problems before reading their editorial.
 ## Problems
 
 1. [hello](./hello.md)
+2. [lastfactorialdigit](./lastfactorialdigit.md)
