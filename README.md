@@ -11,6 +11,7 @@ Problems that don't require very much knowledge about competitive programming, a
 1. [hello](./hello.md)
 2. [quadrant](./quadrant.md)
 3. [lastfactorialdigit](./lastfactorialdigit.md)
+4. [dicecup](./dicecup.md)
 
 ## Advanced Problems 
 
