@@ -12,6 +12,7 @@ Problems that don't require very much knowledge about competitive programming, a
 2. [quadrant](./quadrant.md)
 3. [lastfactorialdigit](./lastfactorialdigit.md)
 4. [dicecup](./dicecup.md)
+5. [autori](./autori.md)
 
 ## Advanced Problems 
 
