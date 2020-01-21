@@ -13,6 +13,7 @@ Problems that don't require very much knowledge about competitive programming, a
 3. [lastfactorialdigit](./lastfactorialdigit.md)
 4. [dicecup](./dicecup.md)
 5. [autori](./autori.md)
+6. [beatspread](./beatspread.md)
 
 ## Advanced Problems 
 
