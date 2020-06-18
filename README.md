@@ -14,6 +14,7 @@ Problems that don't require very much knowledge about competitive programming, a
 4. [dicecup](./dicecup.md)
 5. [autori](./autori.md)
 6. [beatspread](./beatspread.md)
+7. [modulo](./modulo.md)
 
 ## Advanced Problems 
 
