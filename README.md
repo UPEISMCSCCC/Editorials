@@ -15,6 +15,7 @@ Problems that don't require very much knowledge about competitive programming, a
 5. [autori](./autori.md)
 6. [beatspread](./beatspread.md)
 7. [modulo](./modulo.md)
+8. [eulersnumber](./eulersnumber.md)
 
 ## Advanced Problems 
 
